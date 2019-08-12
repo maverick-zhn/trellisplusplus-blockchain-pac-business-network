@@ -20,7 +20,7 @@ Resources in Hyperledger Composer include:
 
 Trellis++ defines the *PAC* as the most important asset. We define assets utilizing Hyperleger Fabric Composer as shown in the following figure:
 
-<img height="500" src="https://raw.githubusercontent.com/maverick-zhn/trellisplusplus-blockchain-pac-business-network/master/assets/images/creatingNewAsset.png" align="middle">
+<img height="500" src="https://raw.githubusercontent.com/maverick-zhn/trellisplusplus-blockchain-pac-business-network/master/assets/images/networkModel.png" align="middle">
 
 ### PACs
 
@@ -36,6 +36,10 @@ Creating new participants:
 Trellis++ utilizes a regulator participant to query the ledger:
 
 <img height="500" src="https://raw.githubusercontent.com/maverick-zhn/trellisplusplus-blockchain-pac-business-network/master/assets/images/definingParticipants-regulator.png" align="middle">
+
+### Participants' List:
+
+<img height="500" src="https://raw.githubusercontent.com/maverick-zhn/trellisplusplus-blockchain-pac-business-network/master/assets/images/participantsList.png" align="middle">
 
 
 ## Transactions
