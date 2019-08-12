@@ -3,7 +3,7 @@
 
 # Hyperledger Composer Business Network Definition
 
-<img height="300" src="https://raw.githubusercontent.com/maverick-zhn/trellisplusplus-blockchain-pac-business-network/master/assets/images/fabricOSC-logo.png" align="middle">
+<img height="200" src="https://raw.githubusercontent.com/maverick-zhn/trellisplusplus-blockchain-pac-business-network/master/assets/images/fabricOSC-logo.png" align="middle">
 
 ----------
 
